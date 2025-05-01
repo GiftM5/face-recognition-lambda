@@ -18,7 +18,7 @@ Facial encodings make it possible to compare faces using mathematics rather than
 ## Key Concepts Covered
 
 - Reading image files from AWS S3 using `boto3`
-- Using the `face_recognition` library to detect and encode faces
+- Using the `Deepface` library to detect and encode faces
 - Ensuring consistent vector output (same length every time)
 - Structuring Python code for AWS Lambda deployment
 - Writing clean, well-commented, review-ready code
