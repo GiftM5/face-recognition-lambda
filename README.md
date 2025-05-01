@@ -31,4 +31,4 @@ Once deployed, this Lambda will enable a system where facial images can be trans
 
 **Developed by:** Mpho Mofokeng  
 **Purpose:** Task 2 - Facial Recognition Authentication System  
-**Stack:** Python, AWS Lambda, S3, face_recognition, boto3  
+**Stack:** Python, AWS Lambda, S3,  OpenCV, boto3  

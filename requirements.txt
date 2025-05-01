@@ -1,4 +1,8 @@
+deepface
 boto3
-face_recognition
+opencv-python
 numpy
-Pillow
+tensorflow
+
+# Do not forget to activate the virtual environment before running the script
+# pip install -r requirements.txt
